@@ -1,0 +1,24 @@
+body{
+    background-image: url("../img/beijingtu.jpg");
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+    height: 100vh;
+}
+.logo{
+    width: 1.16rem;
+    position: absolute;
+    top:0.2rem ;
+    left:0.14rem ;
+}
+.zi{
+    height: 40vh;
+}
+.zi>img{
+    width:5.52rem ;
+}
+
+.swiper-container {
+    width: 100%;
+    height:50vh;
+}
