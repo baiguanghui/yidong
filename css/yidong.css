@@ -25,8 +25,8 @@ body{
 .er{
     height: 50vh;
     width: 4.72rem;
-    border-radius: .1rem;
-    background-color: white;
+    border-radius: .2rem;
+    background-color: #f5fcff;
     font-size: 0.34rem;
 }
 .er>h1{
@@ -40,12 +40,12 @@ body{
 }
 .shouchi{
     height: 1.55rem;
-    padding-top: 0.41rem;
+    padding-top: 0.041rem;
 }
-.shouchi p{
+.shouchi .p-1{
     font-size: 0.3rem;
     color: #999999;
-    padding-top: 0.2rem;
+    padding-top: 0.02rem;
 }
 .shouchi span{
     color: #5db1ec;

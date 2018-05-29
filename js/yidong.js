@@ -1,10 +1,11 @@
 $(function(){
 
     var mySwiper = new Swiper ('.swiper-container', {
-        direction: 'vertical',
-        loop: true,
+        direction: 'horizontal',
+        initialSlide :4,
+        slidesPerView : 1.5,
 
-        // Èç¹ûÐèÒª·ÖÒ³Æ÷
+        // ï¿½ï¿½ï¿½ï¿½ï¿½Òªï¿½ï¿½Ò³ï¿½ï¿½
         pagination: {
             el: '.swiper-pagination',
         },
