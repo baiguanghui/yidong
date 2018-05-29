@@ -22,3 +22,32 @@ body{
     width: 100%;
     height:50vh;
 }
+.er{
+    height: 50vh;
+    width: 4.72rem;
+    border-radius: .1rem;
+    background-color: white;
+    font-size: 0.34rem;
+}
+.er>h1{
+    font-size: 0.36rem;
+    height: 1.1rem;
+}
+
+.er img{
+    height: 3.35rem;
+    width: 3.35rem;
+}
+.shouchi{
+    height: 1.55rem;
+    padding-top: 0.41rem;
+}
+.shouchi p{
+    font-size: 0.3rem;
+    color: #999999;
+    padding-top: 0.2rem;
+}
+.shouchi span{
+    color: #5db1ec;
+    font-size: 0.34rem;
+}
